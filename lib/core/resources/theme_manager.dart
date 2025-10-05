@@ -9,6 +9,7 @@ ThemeData getApplicationTheme() {
     // main colors
     primaryColor: ColorManager.primary,
     splashColor: ColorManager.medGreen,
+    scaffoldBackgroundColor: ColorManager.primary,
     //card theme
     cardTheme: CardThemeData(
       elevation: AppSize.s8,

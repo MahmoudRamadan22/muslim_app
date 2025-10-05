@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/widgets.dart';
 import 'package:muslim/core/resources/strings_manager.dart';
 import 'package:muslim/features/Quran/presentation/views/quran_view.dart';
 import 'package:muslim/features/adayaa/presentation/views/adayaa_view.dart';
